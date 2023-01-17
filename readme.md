@@ -1,0 +1,3 @@
+
+https://brightdata.com/blog/how-tos/web-scraping-with-node-js?kw=&cpn=14745430544&cam=aw_all_products-all_geos-search_dsa_blog-kw_en-desktop_blog-how-tos__612826834972&utm_term=&utm_campaign=all_products-all_geos-search_dsa_blog-kw_en-desktop&utm_source=adwords&utm_medium=ppc&utm_content=blog-how-tos&hsa_acc=1393175403&hsa_cam=14745430544&hsa_grp=136943771953&hsa_ad=612826834972&hsa_src=g&hsa_tgt=dsa-1649388330704&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&cq_src=google_ads&cq_cmp=14745430544&cq_term=&cq_plac=&cq_net=g&cq_plt=gp&gclid=Cj0KCQiAq5meBhCyARIsAJrtdr5Dgf5mtY3yU89X1h6L7oqAKs-WO_OcwG4LNl3ior7-BTUjTZOrxokaAs1IEALw_wcBç
+https://ifgeekthen.nttdata.com/es/web-scraping-con-javascript-y-nodejs
